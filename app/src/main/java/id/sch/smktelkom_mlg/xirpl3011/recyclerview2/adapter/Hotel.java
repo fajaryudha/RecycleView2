@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.xirpl3011.recycleview1.adapter;
+package id.sch.smktelkom_mlg.xirpl3011.recyclerview2.adapter;
 
 import android.graphics.drawable.Drawable;
 /**

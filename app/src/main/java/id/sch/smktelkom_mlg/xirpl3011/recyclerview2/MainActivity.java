@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.xirpl3011.recycleview1;
+package id.sch.smktelkom_mlg.xirpl3011.recyclerview2;
 
 import android.content.res.Resources;
 import android.content.res.TypedArray;
@@ -8,15 +8,13 @@ import android.support.v4.graphics.drawable.RoundedBitmapDrawable;
 import android.support.v4.graphics.drawable.RoundedBitmapDrawableFactory;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.LinearLayoutCompat;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.xirpl3011.recycleview1.R;
-import id.sch.smktelkom_mlg.xirpl3011.recycleview1.adapter.Hotel;
-import id.sch.smktelkom_mlg.xirpl3011.recycleview1.adapter.HotelAdapter;
+import id.sch.smktelkom_mlg.xirpl3011.recyclerview2.adapter.Hotel;
+import id.sch.smktelkom_mlg.xirpl3011.recyclerview2.adapter.HotelAdapter;
 
 public class MainActivity extends AppCompatActivity {
     ArrayList<Hotel> mList = new ArrayList<>();

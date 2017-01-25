@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.xirpl3011.recycleview1.adapter;
+package id.sch.smktelkom_mlg.xirpl3011.recyclerview2.adapter;
 
 import android.support.v7.widget.RecyclerView;
         import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import android.support.v7.widget.RecyclerView;
 
         import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.xirpl3011.recycleview1.R;
+import id.sch.smktelkom_mlg.xirpl3011.recyclerview2.R;
 
 /**
  * Created by Smktelkom on 1/17/2017.

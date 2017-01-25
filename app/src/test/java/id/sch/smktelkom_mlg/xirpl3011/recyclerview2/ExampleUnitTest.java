@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.xirpl3011.recycleview1;
+package id.sch.smktelkom_mlg.xirpl3011.recyclerview2;
 
 import org.junit.Test;
 
